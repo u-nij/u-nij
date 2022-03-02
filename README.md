@@ -20,14 +20,3 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-
-</div>
-<h2 align="center">🤔 How I work & study ✍🏻</h3>
-<div align="center">
-  
-  <p>꼼꼼하게 빈 틈을 채워나가려고 노력합니다.</p>
-  <p>해보지 않은 일이라도 시행착오를 겪으면서 익힙니다.</p>
-  <p>좋아하는 것에 몰입합니다.</p>
-  
-</div>
-<p></p>
